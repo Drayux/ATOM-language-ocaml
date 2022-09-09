@@ -1,0 +1,5 @@
+'.source.ocaml':
+    'editor':
+        'commentStart': '(*'
+        'commentEnd': '*)'
+        # 'foldEndPattern': '(?<!\\*)\\*\\*/|^\\s*\\}|\\/*\\s*@end\\s*\\*\\/'

@@ -1,0 +1,16 @@
+{
+  "name": "language-ocaml",
+  "version": "0.1",
+  "description": "Syntax Highlighting for OCaml--A very basic package because I don't know what I'm doing and supposedly two packages for this exist but neither of them work and I'm losing my mind because I literally just want to do my PL homework and I refuse to use VSCode. I'm also very closely referencing the existing atom-language packages. :)",
+  "keywords": [
+  ],
+  "repository": "https://github.com/Drayux/ATOM-language-ocaml",
+  "license": "MIT",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "devDependencies": {
+    "coffeelint": "^1.10.1"
+  }
+}
